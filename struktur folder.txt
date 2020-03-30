@@ -1,0 +1,30 @@
+buat layout:
+fragment_country
+frgment_ringkasan
+fragment_riwayat
+histori_item_holder
+
+buat package :
+Activity-> Mainactivity
+Adapter->HistoryListAdapter
+
+Package api :
+Api
+ApiEndPoint
+ApiService
+
+Package Fragment :
+
+CountryFragment
+RingkasanFragment
+RiwayatFragment
+
+package Model:
+Countrymodel
+RingkasanModel
+RiwayatModel
+
+Package ViewModel :
+CountryViewModel
+RingkasanViewModel
+RiwayatviewModel
